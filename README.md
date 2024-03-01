@@ -55,7 +55,5 @@ Potential areas for further exploration include:
 
 ## Acknowledgements
 
-## Acknowledgements
-
 The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/download?datasetVersionNumber=2).
 
